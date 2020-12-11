@@ -1,1 +1,2 @@
-Això és un exemplede de fitxer de text creat pel Roger Gallart
+Això és un exemple de fitxer de text creat pel Roger Gallart
+amb una modificació
