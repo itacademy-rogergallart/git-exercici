@@ -1,2 +1,3 @@
 Això és un exemplede de fitxer de text creat pel Roger Gallart
 Això és una segona modificació
+amb una modificació
